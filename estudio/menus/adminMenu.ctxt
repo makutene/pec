@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=adminMenu
+comment1.params=
+comment1.target=adminMenu()
+comment10.params=
+comment10.target=void\ verifyStart()
+comment2.params=
+comment2.target=int\ getMenu()
+comment3.params=
+comment3.target=void\ selector()
+comment4.params=
+comment4.target=void\ listarPersonas()
+comment5.params=
+comment5.target=void\ listarProyectos()
+comment6.params=
+comment6.target=void\ agregarPersona()
+comment7.params=
+comment7.target=void\ borrarPersona()
+comment8.params=
+comment8.target=void\ designarPersonas()
+comment9.params=
+comment9.target=void\ listarObras()
+numComments=11
