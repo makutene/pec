@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=certificadoFactory
+comment1.params=nuevoCertificado
+comment1.target=estudio.Certificado\ crearCertificado(int)
+numComments=2

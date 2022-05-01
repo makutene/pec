@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=proyectoFactory
+comment1.params=nuevoProyecto
+comment1.target=estudio.Proyecto\ crearProyecto(int)
+numComments=2

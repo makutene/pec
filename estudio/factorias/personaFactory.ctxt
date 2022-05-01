@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=personaFactory
+comment1.params=nuevaPersona
+comment1.target=estudio.Persona\ crearPersona(java.lang.String)
+numComments=2
