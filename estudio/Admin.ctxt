@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Admin
+comment1.params=
+comment1.target=Admin()
+comment2.params=
+comment2.target=Persona\ addPersona()
+comment3.params=listaPersonas
+comment3.target=void\ delPersona(java.util.ArrayList)
+comment4.params=obras
+comment4.target=void\ asignarEquipo(java.util.ArrayList)
+comment5.params=obras
+comment5.target=void\ verEquipos(java.util.ArrayList)
+comment6.params=listaProyectos
+comment6.target=void\ verListaProyectos(java.util.ArrayList)
+comment7.params=listaPersonas
+comment7.target=void\ verListaPersonas(java.util.ArrayList)
+numComments=8
